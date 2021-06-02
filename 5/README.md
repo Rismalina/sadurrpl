@@ -1,3 +1,3 @@
-NIM         : 1811500059
-NAMA        : RISMALINA
-KELOMPOK    : TI6A
+NIM         : 1811500059<br>
+NAMA        : RISMALINA<br>
+KELOMPOK    : TI6A<br>
